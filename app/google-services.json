@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637662109674",
+    "project_id": "yoga-app-360",
+    "storage_bucket": "yoga-app-360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637662109674:android:5ca51b9d7ecfa0a562dc93",
+        "android_client_info": {
+          "package_name": "com.example.yogaapp360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnfoBcw2ngd8zgFZg1ODCCICTMlfm5Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
